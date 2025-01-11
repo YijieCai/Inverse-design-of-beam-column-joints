@@ -1,4 +1,5 @@
 <div align=center>
+  
 # Inverse Design of Joints
   
 </div> 
