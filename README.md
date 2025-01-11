@@ -4,6 +4,5 @@
   
 </div> 
   
-
-* ## **If you need the .pt file. Please contact with caiyijiehehe@gmail.com**
-<div align=center>
+# Notes
+* *If you need the .pt file. Please contact with caiyijiehehe@gmail.com**
