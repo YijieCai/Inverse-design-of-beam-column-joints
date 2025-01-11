@@ -5,3 +5,4 @@ Inverse Design of Joints
   
 
 * ## **If you need the .pt file. Please contact with caiyijiehehe@gmail.com**
+<div align=center>
