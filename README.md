@@ -25,7 +25,6 @@
 [**🔗The MNIST-Section dataset**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Dataset)     
 [**🔗The weights of the DDPM**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Weight)
 
-<div align=center>
 
 
 * The structure of the folder is as follows:
