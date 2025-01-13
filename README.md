@@ -1,12 +1,12 @@
 <div align=center>
   
 # Inverse Design of Joints Section
-  
+# 梁柱节点截面逆向设计
 </div> 
 
 
-* *If you need the .pt file. Please contact with caiyijiehehe@gmail.com*
-
+* *If you need more information. Please contact with caiyijiehehe@gmail.com*
+* 如果你需要更多信息，请联系这个邮箱caiyijiehehe@gmail.com
 <div align=center>
   <img width="200" src="Chart/Curve_1.gif"/>
   <img width="200" src="Chart/Curve_2.gif"/>
@@ -18,16 +18,19 @@
   <img width="200" src="Chart/Section_4.gif"/>
   <img width="200" src="Chart/Section_DDPM.gif"/>
    <div align=center><strong>Results of the inverse design of Joints section</strong></div>
+   <div align=center><strong>节点梁柱截面逆向设计动态结果</strong></div>
 </div><br>    
 
 
-* ## ⚛️ **_Datasets & Pre-trained models_**    
-[**🔗The MNIST-Section dataset**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Dataset)     
-[**🔗The weights of the DDPM**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Weight)
+* ## ⚛️ **_Datasets & Weights_**  
+* ## ⚛️ **_数据集和权重文件_**  
+[**🔗The MNIST-Section dataset(数据集文件)**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Dataset)     
+[**🔗The Weights of the DDPM(权重文件)**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Weight)
 
 
 
 * The structure of the folder is as follows:
+* 流程图如下:
 ```
   |--Main folder
           |--Diffusion_Dataset
