@@ -1,6 +1,6 @@
 <div align=center>
   
-# Inverse Design of Joints
+# Inverse Design of Joints Section
   
 </div> 
 
@@ -23,7 +23,7 @@
 
 * ## ⚛️ **_Datasets & Pre-trained models_**    
 [**🔗The MNIST-Section dataset**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Dataset)     
-[**🔗The weights of the ViT & DDPM**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Weight)
+[**🔗The weights of the DDPM**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Weight)
 
 <div align=center>
 
