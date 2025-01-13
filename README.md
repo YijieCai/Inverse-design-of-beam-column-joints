@@ -27,3 +27,26 @@
 
 <div align=center>
 
+
+* The structure of the folder is as follows:
+```
+  |--Main folder
+          |--Diffusion_Dataset
+                |--Test
+                      |--Dataset_Test_unweak_2D.h5
+                      |--Dataset_Test_unweak_3D.h5 (Poor effect)
+                |--Train
+                      |--Dataset_Train_unweak_2D.h5
+                      |--Dataset_Train_unweak_3D.h5 (Poor effect)
+          |--DDPM
+                |--ConditionDiffusionModel.py
+                |--Dataset.py
+                |--Train_Diffusion.py
+          |--Analysis
+                |--Result of each model
+                |--Each epoch result comparsion
+                |--Each step result comparison
+                |--Model accuracy
+                |--Different demands
+                |--Exceed Target
+```
