@@ -29,7 +29,7 @@
 
 <div align=center>
   <img width="500" src="Chart/Dataset_Performance.png"/>
-  <img width="200" src="Chart/All_Performance.png"/>
+  <img width="200" src="Chart/All_Performance.PNG"/>
    <div align=center><strong>Data cleaning(数据清洗)</strong></div>
 </div><br>   
 
