@@ -21,6 +21,11 @@
    <div align=center><strong>节点梁柱截面逆向设计动态结果</strong></div>
 </div><br>    
 
+<div align=center>
+  <img width="200" src="Chart/40x80 Diffusion model architecture.png"/>
+   <div align=center><strong>2D-40x80 Diffusion model architecture</strong></div>
+   <div align=center><strong>2D-40x80 模型框架</strong></div>
+</div><br>   
 
 * ## ⚛️ **_Datasets & Weights_**  
 * ## ⚛️ **_数据集和权重文件_**  
