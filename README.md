@@ -61,6 +61,10 @@ The digit portions were mapped to steel, while the remaining portions were mappe
 * 流程图如下:
 ```
   |--Main folder
+          |--Make Dataset based on MNIST
+                |--Create Section Based on Mnist (Features)
+                |--Calculate Using OpenSeespy (Label)
+                |--Data Cleaning
           |--Diffusion_Dataset
                 |--Test
                       |--Dataset_Test_unweak_2D.h5
