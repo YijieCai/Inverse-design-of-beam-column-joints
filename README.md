@@ -40,9 +40,6 @@
 * ## **_The MNIST-Section Dataset_**
 
 The digit portions were mapped to steel, while the remaining portions were mapped to concrete. Figure illustrates the relationship between the proportion of steel in the cross-section and the strength degradation of the columns after loading, categorized into ten classes corresponding to the digits 0 through 9. Weak column and strong beam lead to serious weakening of joint performance, which is not conducive to the generation of accuracy section of the model. Therefore, the data set is clear as shown in Figure(red is eliminated).
-<div align=center>
-  <img width="1000" src="Chart/Dataset.png"/>
-  <div align=center><strong>Fig.2 The distribution of the proportion of steel area and the strength degradation rate</strong></div>
 </div><br>
 
 <div align=center>
