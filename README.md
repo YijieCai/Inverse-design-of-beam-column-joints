@@ -40,7 +40,7 @@
 * ## **_The MNIST-Section Dataset_**
 
 The digit portions were mapped to steel, while the remaining portions were mapped to concrete. Figure illustrates the relationship between the proportion of steel in the cross-section and the strength degradation of the columns after loading, categorized into ten classes corresponding to the digits 0 through 9. Weak column and strong beam lead to serious weakening of joint performance, which is not conducive to the generation of accuracy section. Therefore, the data set is cleaned as shown in Figure(red is eliminated).
-数字部分映射到钢，而其余部分映射到混凝土。图说明了横截面中的钢比例与加载后柱强度退化之间的关系，分为十类，对应于数字0到9。弱柱和强梁导致节点性能严重弱化，不利于模型生成准确有效的截面。因此，数据集清洗如图所示（红色为被消除的）。
+</div><br>数字部分映射到钢，而其余部分映射到混凝土。图说明了横截面中的钢比例与加载后柱强度退化之间的关系，分为十类，对应于数字0到9。弱柱和强梁导致节点性能严重弱化，不利于模型生成准确有效的截面。因此，数据集清洗如图所示（红色为被消除的）。
 </div><br>
 
 <div align=center>
