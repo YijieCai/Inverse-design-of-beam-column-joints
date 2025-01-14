@@ -22,7 +22,7 @@
 </div><br>    
 
 <div align=center>
-  <img width="800" src="Chart/40x80 Diffusion model architecture.png"/>
+  <img width="700" src="Chart/40x80 Diffusion model architecture.png"/>
    <div align=center><strong>2D-40x80 Diffusion model architecture</strong></div>
    <div align=center><strong>2D-40x80 模型框架</strong></div>
 </div><br>   
