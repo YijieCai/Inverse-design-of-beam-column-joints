@@ -27,6 +27,13 @@
    <div align=center><strong>2D-40x80 模型框架</strong></div>
 </div><br>   
 
+<div align=center>
+  <img width="500" src="Chart/Dataset_Performance.png"/>
+  <img width="200" src="Chart/All_Performance.png"/>
+   <div align=center><strong>Data cleaning(数据清洗)</strong></div>
+</div><br>   
+
+
 * ## ⚛️ **_Datasets & Weights_**  
 * ## ⚛️ **_数据集和权重文件_**  
 [**🔗The MNIST-Section dataset(数据集文件)**](https://github.com/YijieCai/Inverse-design-of-beam-column-joints/releases/tag/Dataset)     
