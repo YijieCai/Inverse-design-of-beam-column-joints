@@ -12,20 +12,30 @@
   <img width="200" src="Chart/Curve_2.gif"/>
   <img width="200" src="Chart/Curve_3.gif"/>
   <img width="200" src="Chart/Curve_4.gif"/>
+   <div align=center><strong>Results of the inverse design of Joints section</strong></div>
+   <div align=center><strong>节点梁柱截面逆向设计动态结果</strong></div>
+</div><br>    
+
+
+<div align=center>
   <img width="200" src="Chart/Section_1.gif"/>
   <img width="200" src="Chart/Section_2.gif"/>
   <img width="200" src="Chart/Section_3.gif"/>
   <img width="200" src="Chart/Section_4.gif"/>
+</div><br>   
+
+
+<div align=center>
   <img width="200" src="Chart/Section_DDPM.gif"/>
-   <div align=center><strong>Results of the inverse design of Joints section</strong></div>
-   <div align=center><strong>节点梁柱截面逆向设计动态结果</strong></div>
-</div><br>    
+</div><br>   
+
 
 <div align=center>
   <img width="700" src="Chart/40x80 Diffusion model architecture.png"/>
    <div align=center><strong>2D-40x80 Diffusion model architecture</strong></div>
    <div align=center><strong>2D-40x80 模型框架</strong></div>
 </div><br>   
+
 
 <div align=center>
   <img width="375" src="Chart/Dataset_Performance.png"/>
