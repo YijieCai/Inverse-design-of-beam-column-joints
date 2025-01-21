@@ -61,26 +61,26 @@ The digit portions were mapped to steel, while the remaining portions were mappe
 * 流程图如下:
 ```
   |--Main folder
-          |--Make Dataset based on MNIST
-                |--Create Section Based on Mnist (Features)
-                |--Calculate Using OpenSeespy (Label)
-                |--Data Cleaning
+          |--Make Dataset based on MNIST (基于MNIST建立数据集)
+                |--Create Section Based on Mnist (Features) (数字截面作为特征)
+                |--Calculate Using OpenSeespy (Label) (节点骨架曲线作为标签)
+                |--Data Cleaning (数据清洗，去除弱柱强梁导致的异常骨架曲线)
           |--Diffusion_Dataset
                 |--Test
-                      |--Dataset_Test_unweak_2D.h5
-                      |--Dataset_Test_unweak_3D.h5 (Poor effect)
+                      |--Dataset_Test_unweak_2D.h5 (2D数据集, 80x40)
+                      |--Dataset_Test_unweak_3D.h5 (Poor effect) (3D数据集, 2x40x40, 训练效果较差)
                 |--Train
-                      |--Dataset_Train_unweak_2D.h5
-                      |--Dataset_Train_unweak_3D.h5 (Poor effect)
+                      |--Dataset_Train_unweak_2D.h5 (2D数据集, 80x40)
+                      |--Dataset_Train_unweak_3D.h5 (Poor effect) (3D数据集, 2x40x40, 训练效果较差)
           |--DDPM
-                |--ConditionDiffusionModel.py
-                |--Dataset.py
-                |--Train_Diffusion.py
+                |--ConditionDiffusionModel.py (Unet网络)
+                |--Dataset.py (打开数据集)
+                |--Train_Diffusion.py (训练模型)
           |--Analysis
-                |--Result of each model
-                |--Each epoch result comparsion
-                |--Each step result comparison
-                |--Model accuracy
-                |--Different demands
-                |--Exceed Target
+                |--Result of each model 
+                |--Each epoch result comparsion (各个训练轮次下模型的生成效果)
+                |--Each step result comparison (模型各个生成步骤下的生成效果)
+                |--Model accuracy (模型准确度)
+                |--Different demands (不同骨架曲线需求下的准确度)
+                |--Exceed Target (超出训练范围的生成效果)
 ```
